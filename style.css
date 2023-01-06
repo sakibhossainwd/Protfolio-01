@@ -33,3 +33,11 @@ section{
     padding: 7px 30px;
     border-radius: 5px;
 }
+
+/* second-part */
+.second-part{
+    margin-top: 100px;
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
