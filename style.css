@@ -41,3 +41,33 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.box{
+    width: 50%;
+    box-shadow: 5px 7px 20px #888888;
+    margin-bottom: 10%;
+}
+.box-1{
+    margin-left: 8%;
+    margin-right: 5%;
+    padding: 1%;
+    width: 40%;
+    border-left: 5px solid #eb4f37;
+    border-radius: 5px;
+}
+.box-2{
+    margin-left: 8%;
+    margin-right: 10%;
+    padding: 1%;
+    width: 40%;
+    border-left: 5px solid #0000ff;
+    border-radius: 5px;
+    
+}
+.last-part{
+    background-image: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 9%;
+}
+footer p{
+    text-align: center;
+}
